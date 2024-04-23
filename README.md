@@ -34,7 +34,7 @@ To explore the project:
 
 # My Project
 
-Welcome to my project! This repository contains the source code and documentation for [Project Name].
+Welcome to my project! This repository contains the source code and documentation for [Business insights 360].
 
 ## Power BI Service Link
 
