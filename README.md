@@ -4,7 +4,7 @@ Welcome to the AtliQ Business Insights 360 project repository! This project aims
 
 ## Project Overview
 
-AtliQ Hardware, a global consumer electronics company, has embarked on a journey to enhance its decision-making capabilities through data analytics. This project focuses on designing an interactive dashboard offering insights into various aspects of the business operations.
+AtliQ Hardware, a global consumer electronics company, has embarked on a journey to enhance its decision-making capabilities through data analytics. This project focuses on designing an interactive dashboard offering insights into various aspects of business operations.
 
 ## Key Features
 
@@ -22,48 +22,16 @@ AtliQ Hardware, a global consumer electronics company, has embarked on a journey
 - DAX (Data Analysis Expressions) for creating calculated columns and measures
 - Power Query for data cleaning and transformation
 
-## Getting Started
+## Usage
 
-To explore the project:
+To use the project:
 
 1. Clone this repository to your local machine.
-2. Open the Power BI file (.pbix) in Microsoft Power BI Desktop.
+2. Open the Power BI dashboard link provided below to access the project in the Power BI service:
+   - [View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTJiYWYyNmQtZGYzYy00ZTFjLWI0ZTktMDhhNmU2MjczNzNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 3. Navigate through the dashboard tabs to explore different insights.
 4. Use the filters and interactive elements to customize your analysis.
 5. Refer to the documentation for detailed explanations of each dashboard component.
-
-# My Project
-
-Welcome to my project! This repository contains the source code and documentation for [Business insights 360].
-
-## Power BI Service Link
-
-You can view the interactive Power BI dashboard associated with this project on the Power BI service. Click on the link below to access the dashboard:
-
-
-[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTJiYWYyNmQtZGYzYy00ZTFjLWI0ZTktMDhhNmU2MjczNzNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
-
-
-## Installation
-
-To install and run this project locally, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Install the necessary dependencies.
-3. Run the project locally using [instructions].
-
-## Usage
-
-[Instructions on how to use the project]
-
-## Contributing
-
-[Guidelines for contributing to the project]
-
-## License
-
-[License information]
 
 
 ## Contributors
