@@ -40,7 +40,9 @@ Welcome to my project! This repository contains the source code and documentatio
 
 You can view the interactive Power BI dashboard associated with this project on the Power BI service. Click on the link below to access the dashboard:
 
-[View Power BI Dashboard]((https://app.powerbi.com/view?r=eyJrIjoiMTJiYWYyNmQtZGYzYy00ZTFjLWI0ZTktMDhhNmU2MjczNzNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
+
+[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTJiYWYyNmQtZGYzYy00ZTFjLWI0ZTktMDhhNmU2MjczNzNlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 
 
 ## Installation
